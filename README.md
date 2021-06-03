@@ -30,15 +30,15 @@ While visualizing the data, I used the **'Datawrapper'** tool. Datawrapper, whic
 
 ## References
 
-•	https://www.bbc.com/turkce/haberler-dunya-52595325
+- https://www.bbc.com/turkce/haberler-dunya-52595325
 
-•	https://www.bbc.com/news/business-52660591
+- https://www.bbc.com/news/business-52660591
 
-•	https://www.ilo.org/wcmsp5/groups/public/@dgreports/@dcomm/documents/briefingnote/wcms_767028.pdf
+- https://www.ilo.org/wcmsp5/groups/public/@dgreports/@dcomm/documents/briefingnote/wcms_767028.pdf
 
-•	https://dergipark.org.tr/tr/download/article-file/1404393
+- https://dergipark.org.tr/tr/download/article-file/1404393
 
-•	https://www.8newsnow.com/news/local-news/las-vegas-metro-area-posts-9-3-unemployment-rate-in-february/
+- https://www.8newsnow.com/news/local-news/las-vegas-metro-area-posts-9-3-unemployment-rate-in-february/
 
-•	https://turcovid19.com/acikveri/ (number of cases)
+- https://turcovid19.com/acikveri/ (number of cases)
 
