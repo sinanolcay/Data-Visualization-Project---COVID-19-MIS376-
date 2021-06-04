@@ -27,7 +27,7 @@ As in every subject, we need some data to find out the unemployment rate during 
 
 While visualizing the data, I used the **'Datawrapper'** tool. Datawrapper, which is an easy-to-use and successful tool, enabled me to obtain a successful graphic during the visualization phase.
 
-## Data Gathering
+## Data on Unemployment
 
 The most basic thing I need for this project is information about unemployment rates in the Covid 19 period. I did research on this subject from some reliable sources in our country and the results I obtained were not sufficient and reliable. I associated this problem with the number of cases and found data on unemployment in Turkey and various parts of the world. I used this data for data visualization. Below you can find informations about all the data I used.
 
@@ -36,6 +36,7 @@ The most basic thing I need for this project is information about unemployment r
 -	https://turcovid19.com/acikveri
 
 The most reliable and accurate data I could find on the number of cases in Turkey.
+
 
 
 -	https://www.worldometers.info/coronavirus/country/us
@@ -49,15 +50,21 @@ The USA is one of the places with the highest number of cases during the covid 1
 As a result of my research on the unemployment rate for the USA, I was able to find reliable results. Unemployment rates have risen and they are not afraid to publish it. This is the site where I got the data I use for the unemployment rate.
 
 
+
 -	https://www.statista.com/statistics/268830/unemployment-rate-in-eu-countries
 
 During the Covid 19 period, the unemployment rate in some countries of Europe increased very much. As a result of my research on this subject, I made a data visualization process with the information I got from here.
+
 
 
 -	https://www.bbc.com/turkce/haberler-dunya-52595325
 
 While doing this project, the data I found most important was related to unemployment benefits. However, no Turkish source allowed me to find information on this subject. In my project, I examined the unemployment benefits applications in the USA.
 
+
+## Challenges I Encountered in This Project
+
+As in every subject, we need some data to learn the change in unemployment rate during the pandemic period. Before starting the project, I thought that I would use the information I found about the unemployment rate in Turkey, but when I started the project, I saw that there was no sufficient and reliable source on this subject in my country. I asked you about this and decided that I needed to complete my project in different ways. I thought that as a result of the strategy followed by Turkey during the pandemic period, the unemployment rate and the number of cases would be related to each other. Because while people could go to work in provinces where the number of cases was low, workplaces were not opened in provinces with a high number of cases and there was a curfew. As a result, at the end of my research, I decided that the most accurate data on unemployment would be the number of cases. I completed my project by examining the relationship between the unemployment rate and the number of cases. I found some data for Turkey and various parts of the world and advanced my project with this data. I wanted to use the data of İşkur, which I thought would be the most useful for me, but the data could not be reached. I wanted to learn how much the unemployment benefit rate in Turkey has increased and to use it in my project, but I couldn't.
 
 ## References
 
