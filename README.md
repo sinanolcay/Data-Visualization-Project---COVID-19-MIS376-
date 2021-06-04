@@ -27,10 +27,39 @@ As in every subject, we need some data to find out the unemployment rate during 
 
 While visualizing the data, I used the **'Datawrapper'** tool. Datawrapper, which is an easy-to-use and successful tool, enabled me to obtain a successful graphic during the visualization phase.
 
+## Data Gathering
+
+The most basic thing I need for this project is information about unemployment rates in the Covid 19 period. I did research on this subject from some reliable sources in our country and the results I obtained were not sufficient and reliable. I associated this problem with the number of cases and found data on unemployment in Turkey and various parts of the world. I used this data for data visualization. Below you can find informations about all the data I used.
+
+
+
+-	https://turcovid19.com/acikveri
+
+The most reliable and accurate data I could find on the number of cases in Turkey.
+
+
+-	https://www.worldometers.info/coronavirus/country/us
+
+The USA is one of the places with the highest number of cases during the covid 19 period. I got the data I examined in my project from here.
+
+
+
+-	https://www.statista.com/statistics/273909/seasonally-adjusted-monthly-unemployment-rate-in-the-us
+
+As a result of my research on the unemployment rate for the USA, I was able to find reliable results. Unemployment rates have risen and they are not afraid to publish it. This is the site where I got the data I use for the unemployment rate.
+
+
+-	https://www.statista.com/statistics/268830/unemployment-rate-in-eu-countries
+
+During the Covid 19 period, the unemployment rate in some countries of Europe increased very much. As a result of my research on this subject, I made a data visualization process with the information I got from here.
+
+
+-	https://www.bbc.com/turkce/haberler-dunya-52595325
+
+While doing this project, the data I found most important was related to unemployment benefits. However, no Turkish source allowed me to find information on this subject. In my project, I examined the unemployment benefits applications in the USA.
+
 
 ## References
-
-- https://www.bbc.com/turkce/haberler-dunya-52595325
 
 - https://www.bbc.com/news/business-52660591
 
@@ -38,7 +67,9 @@ While visualizing the data, I used the **'Datawrapper'** tool. Datawrapper, whic
 
 - https://dergipark.org.tr/tr/download/article-file/1404393
 
+- https://www.bbc.com/turkce/haberler-dunya-52595325
+
 - https://www.8newsnow.com/news/local-news/las-vegas-metro-area-posts-9-3-unemployment-rate-in-february/
 
-- https://turcovid19.com/acikveri/ (number of cases)
+- https://turcovid19.com/acikveri/
 
