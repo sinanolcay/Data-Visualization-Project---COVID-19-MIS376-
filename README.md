@@ -27,7 +27,7 @@ As in every subject, we need some data to find out the unemployment rate during 
 
 While visualizing the data, I used the **'Datawrapper'** tool. Datawrapper, which is an easy-to-use and successful tool, enabled me to obtain a successful graphic during the visualization phase.
 
-## Data on Unemployment
+## Datas on Unemployment
 
 The most basic thing I need for this project is information about unemployment rates in the Covid 19 period. I did research on this subject from some reliable sources in our country and the results I obtained were not sufficient and reliable. I associated this problem with the number of cases and found data on unemployment in Turkey and various parts of the world. I used this data for data visualization. Below you can find informations about all the data I used.
 
